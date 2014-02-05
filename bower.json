@@ -1,0 +1,22 @@
+{
+  "name": "cmatraining",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Hencke <bhencke@schoolmessenger.com>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fastclick": "~0.6.11",
+    "backbone": "~1.1.0",
+    "underscore": "~1.5.2",
+    "marionette": "~1.6.1",
+    "jquery": "~2.1.0"
+  }
+}
